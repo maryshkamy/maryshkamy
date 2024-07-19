@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Mary  👩🏽‍💻
 
-[![Linkedin: Mariana Rios](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryshkamy/)](https://www.linkedin.com/in/maryshkamy/) [![Gmail: Mariana Rios](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marianariossc@gmail.com)](mailto:marianariossc@gmail.com) 
+[![Linkedin: Mariana Rios](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryshkamy/)](https://www.linkedin.com/in/maryshkamy/) [![Gmail: Mariana Rios](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marianariossc@gmail.com)](mailto:marianariossc@gmail.com)
+
 ![Apple](https://img.shields.io/badge/-ios-black?style=for-the-badge&logo=Apple&logoColor=white) ![Swift](https://img.shields.io/badge/-swift-orange?style=for-the-badge&logo=Swift&logoColor=white)
 
 ```swift
